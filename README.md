@@ -139,7 +139,6 @@ Markhor is a DTC company that works with craftsmen to make shoes and…
 Modern primary care via video and in-person
 The fundraising platform for schools.
 Digital trade financing for small businesses
-
 Makes legal paperwork easy for startups and their attorneys.
 Predicting and preventing heart disease.
 We use human data and AI to develop better drugs faster.
@@ -310,8 +309,6 @@ We're a mobile on-device profiling and ad-serving platform initially…
 no-code end-to-end testing that integrates with any CI/CD pipeline
 One-click screen sharing with installation-free viewing on all devices
 Buxfer helps you make better spending decisions by making it easy to…
-
-
 Collaborate with an artist to commission original artwork you'll live…
 Shoptiques.com lets you shop the world's best local boutiques online.
 Simple third-party app patching and deployment for Windows.
