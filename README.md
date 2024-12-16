@@ -1,4 +1,5 @@
 # 1000-startup-idea-from-ycombinator
+ - 一行一个创业思路.
 ```
 Book accommodations around the world.
 Digital Analytics Platform
